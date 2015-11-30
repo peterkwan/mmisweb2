@@ -4,8 +4,8 @@
     <title>Multimedia Information System</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://peterkwan.github.io/</link>
-    <atom:link href="http://peterkwan.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://peterkwan.github.io/mmisweb2/</link>
+    <atom:link href="http://peterkwan.github.io/mmisweb2/feed.xml" rel="self" type="application/rss+xml"/>
     <pubDate>Mon, 30 Nov 2015 13:30:08 +0800</pubDate>
     <lastBuildDate>Mon, 30 Nov 2015 13:30:08 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Mon, 30 Nov 2015 13:04:17 +0800</pubDate>
-        <link>http://peterkwan.github.io/jekyll/update/2015/11/30/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://peterkwan.github.io/jekyll/update/2015/11/30/welcome-to-jekyll.html</guid>
+        <link>http://peterkwan.github.io/mmisweb2/jekyll/update/2015/11/30/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://peterkwan.github.io/mmisweb2/jekyll/update/2015/11/30/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
