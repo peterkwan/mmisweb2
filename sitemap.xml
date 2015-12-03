@@ -12,5 +12,6 @@
    </url>
   <url>
     <loc>http://peterkwan.github.io/mmisweb2/collection.html</loc>
+    <xhtml:link rel="alternate" title="Multimedia Information System" href="android-app://hk.gov.hkpl.mmisviewertestapp/http/peterkwan.github.io/mmisweb2/collection.html" />
    </url>
 </urlset>
